@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://MaximusStupidus.github.io/sumegh-consultancy",
+  "homepage": "https://maximusstupidus.github.io/sumegh-consultancy",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
